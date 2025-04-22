@@ -36,3 +36,12 @@ You can try any of these directly in [PromptTacular on Perplexity](https://www.p
 - I need a LlamaIndex-compatible prompt for turning transcripts into meeting summaries
 
 ---
+
+### Links Provided in the Perplexity Spcae
+
+- [LlamaIndex Prompt Models Guide](https://docs.llamaindex.ai/en/stable/module_guides/models/prompts/)
+- [LangChain Prompt Templates Documentation](https://python.langchain.com/docs/concepts/prompt_templates/)
+- [OpenAI's Strategies for Better Prompt Results](https://platform.openai.com/docs/guides/prompt-engineering/six-strategies-for-getting-better-results)
+- [Prompting Guide](https://www.promptingguide.ai/)
+
+---

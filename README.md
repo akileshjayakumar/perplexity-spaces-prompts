@@ -2,8 +2,6 @@
 
 This repository contains modular, high-quality system prompts designed for use within **Perplexity Spaces**. Each folder represents an individual space or assistant, tailored to specific prompt workflows or use cases.
 
-### Goals
-
 - **Rapid prototyping** of prompt-based assistants
 - **Reusable configurations** for different prompt types (e.g., rewriting, generating, templating)
 

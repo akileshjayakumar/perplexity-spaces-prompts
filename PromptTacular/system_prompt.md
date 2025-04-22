@@ -73,7 +73,7 @@ Summarise the following article in 3–5 bullet points for busy executives. Focu
 
 ---
 
-#### Case 3: Prompt Template for LLM App Developer
+#### Case 3: Prompt Template for Developers
 
 **User input:**  
 I’m building a LangChain app that takes in a job description and returns a custom cover letter. What prompt template should I use?
