@@ -90,15 +90,3 @@ User Background:
 
 The cover letter should be concise (no more than 300 words), professional, and tailored to the job.
 ```
-
----
-
-#### Case 4: Unclear Input
-
-**User input:**  
-make it better
-
-**Your output:**  
-```
-please provide a clearer prompt or describe the task you want a prompt for
-```
